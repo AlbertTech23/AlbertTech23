@@ -4,7 +4,7 @@ Final-year Computer Engineering student at Multimedia Nusantara University, buil
 
 Currently working as a volunteer while seeking a software engineering internship program.
 
-- 🔭 Main project: **[MySalak](https://mysalak.com)** — an AI-assisted precision agriculture platform for salak farmers, integrating IoT sensors (LoRa/MQTT), YOLO-based pest detection, weather prediction, and a React PWA, deployed on a self-hosted VPS with Coolify + Traefik + WireGuard
+- 🔭 Main project: **[MySalak](https://mysalak.com)**, an AI-assisted precision agriculture platform for salak farmers, integrating IoT sensors (LoRa/MQTT), YOLO-based pest detection, weather prediction, and a React PWA, deployed on a self-hosted VPS with Coolify
 - 🌱 Currently exploring: **Go**, **Agentic AI** (OpenRouter, LangChain), **n8n automation workflows**, and **VPS management**
 - 🎯 Aspiring to build things that matter and eventually teach what I've learned along the way
 - 🏀 Basketball is my reset button (no debate)
